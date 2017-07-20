@@ -1,3 +1,7 @@
 leanna starts to learn git
 leanna confused
+<<<<<<< HEAD
 leanna try again
+=======
+Leanna try again
+>>>>>>> feature1
